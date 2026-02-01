@@ -19,3 +19,4 @@ This project is a Data Analysis System designed to identify bottlenecks in globa
 ## 📊 Sample Insights
 - Identified **Mundra Port** as a major congestion point.
 - Highlighted **Maersk** as having the highest average delay in the current dataset.
+[🔗 Live Dashboard Link](https://logistics-data-analysis-system-3zm84dtzrzswowgiizrv28.streamlit.app/)
